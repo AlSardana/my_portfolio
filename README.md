@@ -36,7 +36,7 @@
 1. Расчет основных параметров юнит-калькулятора. Визуализация расходов маркетинга и их эффективность в динамике. Визуализация доли уроков с разной ценой в динамике. Визуализация динамики привлечения новых студентов по каналам.
 2. Настройка в калькуляторе учета корректировок планов маркетинга. Пересчет плана найма преподавателей.
 
-Ссылка на проект 
+:telescope: Ссылка на проект 
 https://docs.google.com/spreadsheets/d/15ui_jjsAA3QRLObf7EbV7imLjqAJmEcZBMMI6eOwPqU/edit?usp=sharing
 
 Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра
@@ -44,7 +44,7 @@ https://docs.google.com/spreadsheets/d/15ui_jjsAA3QRLObf7EbV7imLjqAJmEcZBMMI6eOw
 1. Расчет Retention для каждого месяца, ср. геом. Retention, лайфтайм, LTR, CAC, Маржинальность
 2. Распределение просмотров по суточным часам (0-23) в разрезе будние-выходные, поиск решения для выхода в маржинальность +25%
 
-Ссылка на проект 
+:telescope: Ссылка на проект 
 https://docs.google.com/spreadsheets/d/1GRI6P2AmvpbihvpewOREeY4FKrDfOdEC4oOvc58SPZo/edit?usp=sharing
 
 Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL
@@ -52,7 +52,7 @@ https://docs.google.com/spreadsheets/d/1GRI6P2AmvpbihvpewOREeY4FKrDfOdEC4oOvc58S
 1. Сбор данных о балансах студентов за каждый день с помощью СТЕ-конструкций
 2. Визуализация и поиск проблемы в данных
 
-Ссылка на проект 
+:telescope: Ссылка на проект 
 https://docs.google.com/spreadsheets/d/1iRwifbC8Ys8ms468T9oEOfY8-iDLuascgvVfOX2F0_M/edit?usp=sharing
 
 
