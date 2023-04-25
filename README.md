@@ -9,7 +9,7 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 Навыки и технологии
-### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,6 +35,7 @@
 Что нужно было сделать:
 1. Расчет основных параметров юнит-калькулятора. Визуализация расходов маркетинга и их эффективность в динамике. Визуализация доли уроков с разной ценой в динамике. Визуализация динамики привлечения новых студентов по каналам.
 2. Настройка в калькуляторе учета корректировок планов маркетинга. Пересчет плана найма преподавателей.
+
 Ссылка на проект 
 https://docs.google.com/spreadsheets/d/15ui_jjsAA3QRLObf7EbV7imLjqAJmEcZBMMI6eOwPqU/edit?usp=sharing
 
@@ -42,6 +43,7 @@ https://docs.google.com/spreadsheets/d/15ui_jjsAA3QRLObf7EbV7imLjqAJmEcZBMMI6eOw
 Что нужно было сделать:
 1. Расчет Retention для каждого месяца, ср. геом. Retention, лайфтайм, LTR, CAC, Маржинальность
 2. Распределение просмотров по суточным часам (0-23) в разрезе будние-выходные, поиск решения для выхода в маржинальность +25%
+
 Ссылка на проект 
 https://docs.google.com/spreadsheets/d/1GRI6P2AmvpbihvpewOREeY4FKrDfOdEC4oOvc58SPZo/edit?usp=sharing
 
@@ -49,6 +51,7 @@ https://docs.google.com/spreadsheets/d/1GRI6P2AmvpbihvpewOREeY4FKrDfOdEC4oOvc58S
 Что нужно было сделать: 
 1. Сбор данных о балансах студентов за каждый день с помощью СТЕ-конструкций
 2. Визуализация и поиск проблемы в данных
+
 Ссылка на проект 
 https://docs.google.com/spreadsheets/d/1iRwifbC8Ys8ms468T9oEOfY8-iDLuascgvVfOX2F0_M/edit?usp=sharing
 
