@@ -23,7 +23,7 @@
 Системы управления базами данных: MySQL, PostgreSQL
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjYzMDAzMWM3ZWE0MjMxNmE2ZjA3ZjI5ODYyZjRmODIwOWZhMjMwYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Vf3ZKdillTMOOaOho0/giphy.gif" width="100"/>
 </div>
 
 Проекты
