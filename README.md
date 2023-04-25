@@ -18,9 +18,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 Инструменты анализа данных: SQL, Excel
 
 Языки программирования и библиотеки: Python, math
+
 Системы управления базами данных: MySQL, PostgreSQL
 
 <div id="header" align="center">
@@ -28,6 +30,7 @@
 </div>
 
 Проекты
+
 Проект 1: Калькулятор юнит-экономики онлайн-школы
 Что нужно было сделать:
 1. Расчет основных параметров юнит-калькулятора. Визуализация расходов маркетинга и их эффективность в динамике. Визуализация доли уроков с разной ценой в динамике. Визуализация динамики привлечения новых студентов по каналам.
