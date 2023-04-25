@@ -1,9 +1,11 @@
 # my_portfolio
+Портфолио: аналитик данных
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
 </div>
 
-Портфолио: аналитик данных
+
 
 Привет! Меня зовут Сардана, я начинающий аналитик данных. :woman_technologist: 
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
