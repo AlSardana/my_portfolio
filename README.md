@@ -24,7 +24,9 @@ https://docs.google.com/spreadsheets/d/15ui_jjsAA3QRLObf7EbV7imLjqAJmEcZBMMI6eOw
 https://docs.google.com/spreadsheets/d/1GRI6P2AmvpbihvpewOREeY4FKrDfOdEC4oOvc58SPZo/edit?usp=sharing
 
 Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL
-Что нужно было сделать: Сбор данных о балансах студентов за каждый день с помощью СТЕ-конструкций, визуализация и поиск проблемы в данных
+Что нужно было сделать: 
+1. Сбор данных о балансах студентов за каждый день с помощью СТЕ-конструкций
+2. Визуализация и поиск проблемы в данных
 Ссылка на проект 
 https://docs.google.com/spreadsheets/d/1iRwifbC8Ys8ms468T9oEOfY8-iDLuascgvVfOX2F0_M/edit?usp=sharing
 
