@@ -20,11 +20,10 @@
 Инструменты анализа данных: SQL, Excel
 
 Языки программирования и библиотеки: Python, math
-
 Системы управления базами данных: MySQL, PostgreSQL
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif](https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
 </div>
 
 Проекты
